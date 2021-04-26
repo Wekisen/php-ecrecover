@@ -2,7 +2,6 @@
     "name": "wekisen/php-ecrecover",
     "description": "PHP ECRecover Example",
     "keywords": ["ecrecover"],
-    "license": "CC0",
     "authors": [
         {
             "name": "Wekisen",
