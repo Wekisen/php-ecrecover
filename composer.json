@@ -1,12 +1,12 @@
 {
-    "name": "wmh/php-ecrecover",
+    "name": "wekisen/php-ecrecover",
     "description": "PHP ECRecover Example",
     "keywords": ["ecrecover"],
     "license": "CC0",
     "authors": [
         {
-            "name": "Hunter Wu",
-            "homepage": "https://github.com/wmh/php-ecrecover"
+            "name": "Wekisen",
+            "homepage": "https://github.com/Wekisen/php-ecrecover"
         }
     ],
     "require": {
